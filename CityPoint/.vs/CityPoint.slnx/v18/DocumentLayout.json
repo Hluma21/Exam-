@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cg\\source\\repos\\CityPoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|c:\\users\\cg\\source\\repos\\citypoint\\citypoint\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9E6E93-42C9-4A8E-9BBC-C6ECCD9F31C8}|CityPoint\\CityPoint.csproj|solutionrelative:citypoint\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CityPoint\\Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "CityPoint\\Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T23:06:00.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityPoint\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "CityPoint\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T23:05:17.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Data\\SeedData.cs",
+              "RelativeToolTip": "CityPoint\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:43:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CityPoint\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CityPoint\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T22:38:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityPoint\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "CityPoint\\Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T22:22:05.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "CityPoint\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:19:23.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Booking.cs",
+              "RelativeToolTip": "CityPoint\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:43:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Controllers\\StaffsController.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "CityPoint\\Controllers\\StaffsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:21:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "CityPoint\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "CityPoint\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T22:29:46.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260202223743_InitalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs",
+              "RelativeToolTip": "CityPoint\\Data\\Migrations\\20260202223743_InitalCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:37:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "CityPoint\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:20:47.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Room.cs",
+              "RelativeToolTip": "CityPoint\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:43:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "CityPoint\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\cg\\source\\repos\\CityPoint\\CityPoint\\Models\\Staff.cs",
+              "RelativeToolTip": "CityPoint\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:42:48.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
