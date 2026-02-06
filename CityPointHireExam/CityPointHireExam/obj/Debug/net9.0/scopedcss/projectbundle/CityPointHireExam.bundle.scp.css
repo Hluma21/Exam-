@@ -1,0 +1,49 @@
+/* _content/CityPointHireExam/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-rlfgl2wvaa] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-rlfgl2wvaa] {
+  color: #0077cc;
+}
+
+.btn-primary[b-rlfgl2wvaa] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-rlfgl2wvaa], .nav-pills .show > .nav-link[b-rlfgl2wvaa] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-rlfgl2wvaa] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-rlfgl2wvaa] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-rlfgl2wvaa] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-rlfgl2wvaa] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-rlfgl2wvaa] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
